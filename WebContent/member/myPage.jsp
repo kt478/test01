@@ -8,6 +8,6 @@
 <script src="https://code.jquery.com/jquery-3.6.0.js"></script>
 </head>
 <body>
-
+	여기 마이페이지
 </body>
 </html>
